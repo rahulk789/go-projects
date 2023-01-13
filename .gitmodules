@@ -1,9 +1,9 @@
+[submodule "go-slack"]
+	path = go-slack
+	url = https://github.com/rahulk789/go-slack
 [submodule "gousers"]
 	path = gousers
 	url = https://github.com/rahulk789/gousers
 [submodule "rmq-messenger"]
 	path = rmq-messenger
 	url = https://github.com/rahulk789/rmq-messenger
-[submodule "go-slack"]
-	path = go-slack
-	url = https://github.com/rahulk789/go-slack
